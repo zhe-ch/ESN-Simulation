@@ -1,3 +1,6 @@
-# Design files in C code
+# Design Files for C Simulation
 
-This directory collects a set of design source codes in C.
+This directory collects a list of design cases simulated in C.
+
+ - c_handwritten/
+ - c_lfp_fixed/
