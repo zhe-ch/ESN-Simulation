@@ -4,8 +4,9 @@ The echo state network (ESN),[1][2] is a recurrent neural network with a sparsel
 
 This repository contains codes for simulation of a echo-state network (ESN) at the scale of 500/800 hidden nodes.
 
-The simulation is carried out in C.
-The implementation is targetting at FPGA, using Vivado HLS to generate the RTL kernel.
+The function simulation is carried out in C.
+
+The implementation of ESN-based prediction is done on FPGA, using Vivado HLS to automatically generate the RTL kernel.
 
 [1] Herbert Jaeger and Harald Haas. Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication. Science 2 April 2004: Vol. 304. no. 5667, pp. 78 – 80
 
