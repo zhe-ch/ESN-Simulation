@@ -1,0 +1,9 @@
+{"Parameter" : {
+    "inWM": "./source/inWM.bin",
+    "ofbWM": "./source/ofbWM.bin",
+    "outWM": "./source/outWM.bin",
+    "intWM": "./source/intWM.bin"},
+ "Ben" : {
+    "age": "nineteen",
+    "profession": "mechanic"}
+}
