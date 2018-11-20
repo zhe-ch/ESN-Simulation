@@ -1,3 +1,3 @@
-# HLS design
+# Vivado HLS Design Files
 
-This folder contains design source codes for Vivado HLS tool.
+This folder contains design source codes for Vivado HLS.
