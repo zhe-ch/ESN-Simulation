@@ -11,3 +11,5 @@ The implementation of ESN-based prediction is done on FPGA, using Vivado HLS to 
 [1] Herbert Jaeger and Harald Haas. Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication. Science 2 April 2004: Vol. 304. no. 5667, pp. 78 – 80
 
 [2] Herbert Jaeger (2007) Echo State Network. 
+
+Now I make some changes.
