@@ -4,7 +4,7 @@ The echo state network (ESN),[1][2] is a recurrent neural network with a sparsel
 
 This repository contains codes for simulation of a echo-state network (ESN) at the scale of 500/800 hidden nodes.
 
-The function simulation is carried out in C.
+The function simulation is in C. The Acceleration is in FPGA and GPU.
 
 The implementation of ESN-based prediction is done on FPGA, using Vivado HLS to automatically generate the RTL kernel.
 
